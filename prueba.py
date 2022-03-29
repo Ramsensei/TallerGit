@@ -3,3 +3,6 @@ def saludar(nombre):
     
 saludar("Dario")
 
+def despedir(nombre):
+    print("Adios", nombre)
+
