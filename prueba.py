@@ -6,4 +6,7 @@ saludar("Dario")
 def despedir(nombre):
     print("Adios", nombre)
 
-despedir("Dario")
+def sumar(a, b):
+    return a + b
+
+sumar(1, 2)
